@@ -22,12 +22,7 @@
   // E
   // F
   // G
-  {
-    "name": "Google Analytics",
-    "description": "A powerful web analytics service by Google that tracks and reports website traffic, user behavior, and conversions.",
-    "url": "https://analytics.google.com/",
-    "tags": ["analytics", "web", "tracking"]
-  },
+  
   // H
   // I
   // J
